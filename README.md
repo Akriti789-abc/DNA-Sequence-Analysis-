@@ -57,6 +57,6 @@ To automate DNA sequence examination and enable faster, accurate insights into g
 ## 👩‍🔬 Author
 
 |Name:Akriti Saini|  
-B.Tech Biotechnology|  
-Institution: Banasthali Vidyapeeth|  
+|B.Tech Biotechnology|  
+|Institution: Banasthali Vidyapeeth|  
 
